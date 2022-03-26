@@ -1,0 +1,11 @@
+{
+  "name": "directory-content-hashes",
+  "version": "0.0.1",
+  "description": "Recursively calculate hashes of files inside directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "d0omed",
+  "license": "ISC"
+}
